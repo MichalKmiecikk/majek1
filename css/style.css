@@ -7,6 +7,12 @@
 body {
   font-family: "Open sans", sans-serif;
 }
+html {
+  scroll-behavior: smooth;
+}
+section {
+  scroll-margin-top: 80px;
+}
 .wrapper {
   margin: 0 auto;
   width: 100%;
@@ -93,6 +99,7 @@ main {
 .about_us_info {
   margin-bottom: 20px;
   padding: 10px;
+  text-align: center;
 }
 /* produkty */
 .products {
