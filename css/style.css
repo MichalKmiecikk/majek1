@@ -4,15 +4,19 @@
   padding: 0px;
   font-size: 16px;
 }
+
 body {
   font-family: "Open sans", sans-serif;
 }
+
 html {
   scroll-behavior: smooth;
 }
+
 section {
   scroll-margin-top: 80px;
 }
+
 .wrapper {
   margin: 0 auto;
   width: 100%;
@@ -101,6 +105,7 @@ main {
   padding: 10px;
   text-align: center;
 }
+
 /* produkty */
 .products {
   margin: 60px auto;
@@ -113,6 +118,7 @@ main {
   background-position: center;
   text-align: center;
 }
+
 .product:hover h3 {
   transform: scale(2);
 }
@@ -142,6 +148,7 @@ main {
 .contact {
   text-align: center;
 }
+
 .contact h3 {
   margin: 20px 0 5px;
   text-transform: uppercase;
